@@ -1,33 +1,31 @@
 # Vaishnav
+Computer Science @ BITS Pilani, Hyderabad Campus
 
-Computer Science @ BITS Pilani Hyderabad Campus (2022-2026)
+I like understanding how the layers of a system fit together—APIs, data, state, models, persistence, and the infrastructure around them. My projects usually start from something I want to understand or use and evolve into larger engineering systems. 
 
-## About Me
-I'm focused on backend software engineering, robust systems, APIs, and data. I enjoy building practical AI/ML systems where generative models are treated as components behind typed, deterministic boundaries rather than open-ended chat wrappers. My curiosity drives me to understand how full systems work from end to end.
-
-When I'm not coding, you can usually find me watching movies, sketching, or PC gaming.
-<!-- ASCII portrait placeholder to be added later -->
+My work spans backend and full-stack development, data systems, practical AI/RAG/agentic integrations, finance/trading systems, and robotics. I focus on building systems with typed boundaries and deterministic fallbacks rather than open-ended chat wrappers.
 
 ## Selected Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| AlphaCouncil | Paper-trading research and execution system with typed orchestration, deterministic risk controls, and fail-closed execution. | FastAPI, Python, Alpaca, NVIDIA, SQLite |
-| [Spenza](https://github.com/vaishnavg121/spenza) | Expense-sharing application with an Express/Prisma backend, transactional financial workflows, idempotency, automated tests, and exact minor-unit accounting. | Express, Next.js, TypeScript, Prisma, PostgreSQL |
-| [Swa.Neeti](https://github.com/vaishnavg121/swa-neeti) | Legal research and case-reasoning system with provenance-aware retrieval and bounded research loops. It validates generated reasoning against retrieved authorities and rejects unsupported references to reduce unsupported claims. | FastAPI, Next.js, Python, TypeScript, SQLite/pgvector |
+| [AlphaCouncil](https://github.com/vaishnavg121/AlphaCouncil) | Paper-trading research and execution system with typed orchestration, deterministic risk controls, and fail-closed execution. | FastAPI, Python, Alpaca, NVIDIA, SQLite |
+| [Spenza](https://github.com/vaishnavg121/spenza) | Expense-sharing application with Express, Next.js, PostgreSQL/Prisma, idempotent workflows, and exact minor-unit accounting. | Express, Next.js, TypeScript, Prisma, PostgreSQL |
+| [Swa.Neeti](https://github.com/vaishnavg121/swa-neeti) | Legal research and case-reasoning system with provenance-aware retrieval, bounded research loops, and typed reasoning state. It validates generated reasoning against retrieved authorities and rejects unsupported references. | FastAPI, Next.js, Python, TypeScript, SQLite/pgvector |
 | [Windy](https://github.com/vaishnavg121/Windy) | Aviation-weather analytics system using FastAPI, DuckDB, deterministic tools, RAG, and SSE. | FastAPI, Next.js, Python, DuckDB, NVIDIA |
 
 ## Technical Stack
 
-**Languages:** Python, TypeScript, SQL  
-**Backend:** FastAPI, Express, Pydantic, Zod  
-**Databases:** PostgreSQL, SQLite, DuckDB, Prisma ORM  
-**Testing:** pytest, vitest, supertest  
-**AI/ML:** NVIDIA Nemotron, embeddings, RAG, deterministic tool use  
-**Infrastructure:** Docker, GitHub Actions, Vercel, Cloud Run
+**Languages:** C++ · Python · TypeScript · SQL  
+**Backend/Data:** FastAPI · Express · PostgreSQL · Prisma · DuckDB · SQLite  
+**Frontend:** React · Next.js  
+**Engineering:** Git · Linux · Docker · Pytest · Vitest · GitHub Actions  
+**AI/Data:** RAG · embeddings · LLM orchestration · scikit-learn  
 
 ## Contact
 
 - GitHub: [@vaishnavg121](https://github.com/vaishnavg121)
 - LinkedIn: [vaishnavg121](https://linkedin.com/in/vaishnavg121)
 - Email: vaishnav.gvnag@pilani.bits-pilani.ac.in
+
+Outside code, I'm usually watching a film, sketching something, or PC gaming.
