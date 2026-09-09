@@ -1,19 +1,21 @@
 # Vaishnav
 
-Computer Science @ BITS Pilani Hyderabad Campus (2022–2026)
+Computer Science @ BITS Pilani Hyderabad Campus (2022-2026)
 
-## Engineering Focus
+## About Me
+I'm focused on backend software engineering, robust systems, APIs, and data. I enjoy building practical AI/ML systems where generative models are treated as components behind typed, deterministic boundaries rather than open-ended chat wrappers. My curiosity drives me to understand how full systems work from end to end.
 
-Backend systems, APIs, databases, testing, practical AI/LLM integration
+When I'm not coding, you can usually find me watching movies, sketching, or PC gaming.
+<!-- ASCII portrait placeholder to be added later -->
 
 ## Selected Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [AlphaCouncil](https://github.com/vaishnavg121/AlphaCouncil) | Paper-trading research and execution system separating model proposals from deterministic risk controls, typed orchestration, and fail-closed execution | FastAPI, Python, Alpaca, NVIDIA, SQLite |
-| [Swa.Neeti](https://github.com/vaishnavg121/swa-neeti) | Legal research and case-reasoning system for Indian law with provenance-aware retrieval, bounded research loops, typed state, and adversarial analysis | FastAPI, Next.js, Python, TypeScript, SQLite/pgvector |
-| [Spenza](https://github.com/vaishnavg121/spenza) | Expense-sharing platform with Express API, Next.js frontend, PostgreSQL/Prisma persistence, exact minor-unit accounting, and tested idempotent workflows | Express, Next.js, TypeScript, Prisma, PostgreSQL |
-| [Windy](https://github.com/vaishnavg121/Windy) | FastAPI aviation-weather analytics system combining deterministic DuckDB queries, evidence-grounded RAG, bounded analytics, and SSE updates | FastAPI, Next.js, Python, DuckDB, NVIDIA |
+| AlphaCouncil | Paper-trading research and execution system with typed orchestration, deterministic risk controls, and fail-closed execution. | FastAPI, Python, Alpaca, NVIDIA, SQLite |
+| [Spenza](https://github.com/vaishnavg121/spenza) | Expense-sharing application with an Express/Prisma backend, transactional financial workflows, idempotency, automated tests, and exact minor-unit accounting. | Express, Next.js, TypeScript, Prisma, PostgreSQL |
+| [Swa.Neeti](https://github.com/vaishnavg121/swa-neeti) | Legal research and case-reasoning system with provenance-aware retrieval and bounded research loops. It validates generated reasoning against retrieved authorities and rejects unsupported references to reduce unsupported claims. | FastAPI, Next.js, Python, TypeScript, SQLite/pgvector |
+| [Windy](https://github.com/vaishnavg121/Windy) | Aviation-weather analytics system using FastAPI, DuckDB, deterministic tools, RAG, and SSE. | FastAPI, Next.js, Python, DuckDB, NVIDIA |
 
 ## Technical Stack
 
