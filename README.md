@@ -25,7 +25,8 @@ My work spans backend and full-stack development, data systems, practical AI/RAG
 ## Contact
 
 - GitHub: [@vaishnavg121](https://github.com/vaishnavg121)
-- LinkedIn: [vaishnavg121](https://linkedin.com/in/vaishnavg121)
-- Email: vaishnav.gvnag@pilani.bits-pilani.ac.in
+- LinkedIn: [vaishnav_gadamsetty](https://www.linkedin.com/in/venkatanaga-vaishnav-gadamsetty-27925a370?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Personal Email: gvnagavaishnav@gmail.com
+- Clg Email: f20240026@hyderabad.bits-pilani.ac.in
 
 Outside code, I'm usually watching a film, sketching something, or PC gaming.
